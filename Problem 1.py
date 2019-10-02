@@ -2,6 +2,7 @@
 # Create function that takes list of integers as parameter
 # use for loop to iterate through list
 # print how many evens and how many odds
+# print highest and lowest numbers in list
 
 def count_EvensOdds(numbers):
     oddCounter = 0
